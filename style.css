@@ -1,0 +1,67 @@
+.container{
+    background-color: rgb(163, 23, 23);
+    border-radius: 1%;
+}
+
+.subhead{
+  text-align: center;
+  color: white;
+  font-size: 140%;
+}
+
+
+.point{
+    text-align: left;
+    color: white;
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: 120%;
+}
+
+.tip{
+color: rgb(96, 96, 155);
+}
+
+.head{
+    font-size:70px;
+    text-align: center;
+    color: white;
+}
+
+.creator{
+color: rgb(119, 139, 156);
+text-align: center;
+font-size: 140%;
+}
+
+.imagecontainer{
+    position: relative;
+    margin: 0% auto;
+    text-align: center;
+    color: white;
+}
+
+.imagetext{
+    position: absolute;
+    bottom: 1%;
+    text-align: center;
+    font-size: 90%;
+
+}
+
+.image1{
+    width: 90%;
+    height: 600%;
+    position: relative;
+    top: 0%;
+    left: 0%;
+}
+
+.image2{
+    width: 25%;
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    width: 70%;
+    height: 70%;
+}
